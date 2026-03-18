@@ -30,6 +30,13 @@ Welcome to my portfolio website! This is a modern, terminal-styled personal port
 
 View this portfolio at: `https://lakhikantatewary.github.io/My-Portfolio/`
 
+## 📄 Repository Details
+
+- **Repository**: Lakhikantatewary/My-Portfolio
+- **Repository ID**: 1182366369
+- **Primary Language**: HTML (100%)
+- **Last Updated**: 2026-03-18
+
 ## 📄 Files
 
 - `Untitled-1.html` - Main portfolio website (index.html)
